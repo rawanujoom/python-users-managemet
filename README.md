@@ -24,10 +24,10 @@
     GET (requires admin Headers)
 
 
-### Admin Headers:
+## Admin Headers:
 X-Admin = 1
 
-### Request Payload:
+## Request Payload:
 POST: 
 /resume/ 
 
