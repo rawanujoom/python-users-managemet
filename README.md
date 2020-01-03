@@ -1,5 +1,4 @@
 # python-users-managemet
-# python-users-managemet
 
 ## Setup
 * Create a virtual environment virtualenv -p python3 venv
